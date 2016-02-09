@@ -1,0 +1,6 @@
+[submodule "ext/sgct"]
+	path = ext/sgct
+	url = git@github.com:opensgct/sgct.git
+[submodule "ext/ghoul"]
+	path = ext/ghoul
+	url = git@github.com:OpenSpace/Ghoul.git
